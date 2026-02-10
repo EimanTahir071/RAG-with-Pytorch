@@ -2,6 +2,8 @@
 
 A practical Retrieval-Augmented Generation (RAG) project built with PyTorch. This repository is designed as a clean, reproducible baseline for building RAG systems that combine a retriever (vector search) with a generator (LLM or seq2seq model). It emphasizes modular components, clear configuration, and production-friendly patterns so you can evolve from a prototype to a robust pipeline.
 
+<img src="/images/rag_pytorch.gif" alt="description" style="width:100%; height:auto;" />
+
 ## Highlights
 
 - End-to-end RAG pipeline: ingest -> embed -> index -> retrieve -> generate
@@ -135,4 +137,5 @@ Suggested metrics:
 ## License
 
 MIT License. See `LICENSE` for details.
+
 
