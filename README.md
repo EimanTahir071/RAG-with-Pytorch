@@ -12,6 +12,8 @@ A practical Retrieval-Augmented Generation (RAG) project built with PyTorch. Thi
 - Simple configuration via `.env` and YAML
 - Minimal, readable structure for fast onboarding
 
+<img src="/images/rag_pytorch.png" alt="description" style="width:100%; height:auto;" />
+
 ## Repository Layout
 
 ```
@@ -137,5 +139,6 @@ Suggested metrics:
 ## License
 
 MIT License. See `LICENSE` for details.
+
 
 
